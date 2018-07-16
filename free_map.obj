@@ -1,6 +1,6 @@
 # Blender v2.79 (sub 0) OBJ File: 'free_map.blend'
 # www.blender.org
-mtllib free_map.mtl.mtl
+mtllib free_map.mtl
 o Cube.025
 v -4.794001 -0.010000 2.625000
 v -4.794002 -0.010001 3.250000
